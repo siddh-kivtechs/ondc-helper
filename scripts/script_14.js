@@ -14,7 +14,7 @@ let p_json=[{
                 icon: " fa-solid fa-starship-freighter",
                 image:"https://siddh-kivtechs.github.io/ondc-helper/assets/1526627282-flipkart-coupons.png",
                 title: " Flipkart offer",
-                url:""
+                url:"https://www.flipkart.com/"
             }];
 const Movies = () => {
      const  getMovies =  () => {

@@ -7,7 +7,7 @@ let k_json=[{
          
                 label: "Root Vegetables",
                 name: "ruutu",
-                url:""
+                url:"mandi/root_vegetables"
             }, {
                 icon: "fa-solid fa-leafy-green",
                 id: 2,
@@ -15,7 +15,7 @@ let k_json=[{
             
                 label: "leafy vegetables",
                 name: "leafy vegetables",
-                url:""
+                url:"mandi/leafy_vegetables"
             }];
 
 const Tools = () => {

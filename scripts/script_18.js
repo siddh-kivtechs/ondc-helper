@@ -6,7 +6,7 @@ let y_json=[
               id:1,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/men_casual.jpeg",
               title:"mens casual",
-              url:"mens_casual"
+              url:"/apparels/mens_casual"
             },
   
                    {
@@ -15,7 +15,7 @@ let y_json=[
               id:2,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/men_formal.jpeg",
               title:"Mens Formal",
-              url:"/mens_formal"
+              url:"/apparels/mens_formal"
             }
           ,
                     {
@@ -24,7 +24,7 @@ let y_json=[
               id:3,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/woman_casual.jpeg",
               title:"womens casual",
-              url:"/womens_casual"
+              url:"/apparels/womens_casual"
             },
   
                    {
@@ -33,7 +33,7 @@ let y_json=[
               id:4,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/woman_formal.jpeg",
               title:"woMens Formal",
-              url:"/women_formal"
+              url:"/apparels/women_formal"
             },
                {
               desc:" Kids",
@@ -41,7 +41,7 @@ let y_json=[
               id:5,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/kids.jpeg",
               title:"kids",
-              url:"/kids_wear"
+              url:"/apparels/kids_wear"
             },
   
                    {
@@ -50,7 +50,7 @@ let y_json=[
               id:6,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/undergarments.jpeg",
               title:"Undergarments",
-              url:"/undergarments"
+              url:"/apparels/undergarments"
             },
 
                    {
@@ -59,7 +59,7 @@ let y_json=[
               id:7,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/socks.jpeg",
               title:"socks",
-              url:"/socks"
+              url:"/apparels/socks"
             }
            ];
 
