@@ -1,27 +1,50 @@
-//splitting script 13 into  script 13 and Tscript 18
+
 let y_json=[
                    {
-              desc:"Text to Speech  SIMPLE",
+              desc:" Mens Casual",
               id:1,
               image:"https://siddh-kivtechs.github.io/image/man-1600948_1920.png",
-              title:"TTS simple",
+              title:"mens casual",
               url:"https://siddh-kivtechs.github.io/tts_base_1/"
             },
   
                    {
-              desc:"Text to Speech  STORY BOOK",
+              desc:"Mens Formal",
               id:2,
               image:"https://siddh-kivtechs.github.io/image/storytelling-4203628.jpg",
-              title:"TTS story book",
+              title:"Mens Formal",
               url:"https://siddh-kivtechs.github.io/tts_story_book/"
             }
           ,
-                   {
-              desc:"WEB SPEECH synthesis",
+                    {
+              desc:" Womens Casual",
               id:3,
-              image:"https://websta.me/wp-content/uploads/2021/06/text-to-speech-apps-1-2048x1212.jpg",
-              title:"JS TTS",
-              url:"https://jstts1.kivtechs.cloud/"
+              image:"https://siddh-kivtechs.github.io/image/man-1600948_1920.png",
+              title:"mens casual",
+              url:"https://siddh-kivtechs.github.io/tts_base_1/"
+            },
+  
+                   {
+              desc:"Womens Formal",
+              id:4,
+              image:"https://siddh-kivtechs.github.io/image/storytelling-4203628.jpg",
+              title:"Mens Formal",
+              url:"https://siddh-kivtechs.github.io/tts_story_book/"
+            },
+               {
+              desc:" Kids",
+              id:5,
+              image:"https://siddh-kivtechs.github.io/image/man-1600948_1920.png",
+              title:"kids",
+              url:"https://siddh-kivtechs.github.io/tts_base_1/"
+            },
+  
+                   {
+              desc:"undergarments",
+              id:6,
+              image:"https://siddh-kivtechs.github.io/image/storytelling-4203628.jpg",
+              title:"Undergarments",
+              url:"https://siddh-kivtechs.github.io/tts_story_book/"
             }
            ];
 

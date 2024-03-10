@@ -1,50 +1,19 @@
 
 const url_14 = "https://siddh-kivtechs.github.io/menu_kivtechs_json/part_14.json";
 let p_json=[{
-                desc: " MAke or Generate your your images using ADOBE SUITE of software",
+                desc: "Jiomart offer",
                 id: 1,
                 icon: "fa-solid fa-broom-ball",
-                image: "https://siddh-kivtechs.github.io/image/fantasy-land-7775979.jpg",
-                title: "ADOBE ILLUSTRATOR",
-                url:""
+                image: "https://www.jiomart.com/images/cms/aw_rbslider/slides/1709918159_OnePlus_Nord_3.jpg?im=Resize=(1680,320)",
+                title: "Jiomart offer",
+                url:"https://www.jiomart.com/"
             }, {
-                desc: " CANVA for designers ",
+                desc: " Flipkart  offer  ",
                 id: 2,
                 icon: " fa-solid fa-starship-freighter",
-                image: "https://siddh-kivtechs.github.io/image/woman-7838219.jpg",
-                title: "CANVA direct",
+                image: "https://www.bing.com/images/search?view=detailV2&ccid=4ZOkDbfP&id=E9907EA9A1965603D106805CEBDC54364A31901E&thid=OIP.4ZOkDbfPNrw9y5jGEhThJwHaDt&mediaurl=https%3a%2f%2fs3b.cashify.in%2fgpro%2fuploads%2f2021%2f09%2f16121654%2fFlipkart-Billion.jpg&exph=600&expw=1200&q=flipkart+offer+march+2024&simid=608032396141407694&FORM=IRPRST&ck=EDA356AA55FF9D3CFE2FB0415CC7C08C&selectedIndex=0&itb=0",
+                title: " Flipkart offer",
                 url:""
-            }, {
-                desc: " AUDIO generator ",
-                id: 3,
-                icon: "fa-solid fa-hat-wizard",
-           
-                image: "https://siddh-kivtechs.github.io/image/cyborg-7956066.jpg",
-                title: "SPEECH SYNTHESIS",
-                url:""
-            }, {
-                desc: " LLM Our take on CHATGPT,with open source models from ORCA and other NLP models ",
-                id: 4,
-                icon: "fa-solid fa-galaxy",
-            
-                image: "https://siddh-kivtechs.github.io/image/artificial-intelligence-7965011.jpg",
-                title: "LLM",
-                url:""
-            },
-            {
-                desc: " LLM",
-                id: 5,
-                image: "https://siddh-kivtechs.github.io/image//artificial-intelligence-7965009.jpg",
-                title: "Our Take on LLM based on NLP with CHATGPT as teacher",
-            icon:"fa-solid fa-person-dress-fairy",
-            url:""
-            }, {
-                desc: "VIJU",
-                id: 6,
-                image: "https://siddh-kivtechs.github.io/image/ai-generated-7963061.jpg",
-              icon:"fa-duotone fa-screen-users",
-                title: "Virtual Assistant",
-            url:""
             }];
 const Movies = () => {
      const  getMovies =  () => {

@@ -14,7 +14,7 @@ const Reminder = () => {
         React.createElement("div", { className: "reminder-icon" },
             React.createElement("i", { className: "fa-regular fa-home" })),
         React.createElement("span", { className: "reminder-text" },
-           ` Location : ${geo_location} `  ,
+           ` Location : ${geo_location}   `  ,
             React.createElement("span", { className: "reminder-time" }, 
                 ` IP  : ${ip_address} `                 ))));
 };

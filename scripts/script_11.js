@@ -1,53 +1,31 @@
 //  projects script
 let n_json=[{
-                desc: "MAIN project",
+                desc: "Fruits",
                 id: 1,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/KNEOGIN_IGMISARCH_v_0.png",
-                title: "kneoginigmisarch.",
-                url: "https://kneoginigmisarch.co.in/"
+                image:"",
+                title: "Fruits",
+                url: "/fruits"
             },
             {
-                desc: "KNEO LEARN ",
+                desc: " Vegetables",
                 id: 2,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/KNEOGIN_IGMISARCH_v_0.png",
-                title: "KNEO LEARN .",
-                url: "https://kneo-learn.cloud/"
+                image:"",
+                 title: "Vegetables",
+                url: "/vegetables"
             },
-               {
-                desc: "KAEMM",
+            {
+                desc: "Dairy  ",
                 id: 3,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/kaemm.cloud.png",
-                title: "KAEMM .",
-                url: "https://kaemm.cloud/"
+               image:"",
+                title: "Dairy",
+                url: "/dairy"
             },
                {
-                desc: "KNEO EMM ",
+                desc: " Bakery ",
                 id: 4,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/kneo-emm.cloud.png",
-                title: "KNEO EMM.",
-                url: "https://kneo-emm.cloud/"
-            }
-            ,
-               {
-                desc: "I-PROVISION",
-                id: 5,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/i-provision.cloud.png",
-                title: "I-PROVISION.",
-                url: "https://i-provision.cloud/"
-            },
-             {
-                desc: "KNEO IMPACT",
-                id: 6,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/KNEOGIN_IGMISARCH_v_0.png",
-                title: "KNEO IMPACT .",
-                url: "https://kneo-impact.cloud/"
-            },
-                 {
-                desc: "DEPLOY S",
-                id: 7,
-                image: "https://siddh-kivtechs.github.io/kneogin_brand_asset/deploy-s.cloud.png",
-                title: "DEPLOY S .",
-                url: "https://deploy-s.cloud/"
+                image: "",
+                title: " Bakery",
+                url: "/bakery"
             }
             ];
 

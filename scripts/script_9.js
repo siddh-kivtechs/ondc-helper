@@ -76,7 +76,7 @@ const Pin = () => {
                             React.createElement(PinDigit, { focused: pin.length === 4, value: pin[4] }),
             React.createElement(PinDigit, { focused: pin.length === 5, value: pin[5] })),
         React.createElement("h3", { id: "app-pin-label" },
-            "TEST user : ",
+            "H2S user : ",
             getErrorText(),
             " Enter PIN (987654)  ",
             getCancelText())));
