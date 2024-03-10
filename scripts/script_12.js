@@ -1,17 +1,17 @@
 
 const url_12 = "https://siddh-kivtechs.github.io/menu_kivtechs_json/part_12.json";
 let k_json=[{
-                icon: "fas fa-photo-video",
+                icon: "fa-solid fa-onion",
                 id: 1,
-            image: "https://siddh-kivtechs.github.io/company_images/Adobe-Logo.png",
+            image: "https://siddh-kivtechs.github.io/ondc-helper/assets/root_vegetables.jpeg",
          
                 label: "Root Vegetables",
                 name: "ruutu",
                 url:""
             }, {
-                icon: "fab fa-aws",
+                icon: "fa-solid fa-leafy-green",
                 id: 2,
-                image: "https://siddh-kivtechs.github.io/company_images/aws_logo_cmyk-2a9ix9v.jpg",
+                image: "https://siddh-kivtechs.github.io/ondc-helper/assets/leafy_vegetables.jpeg",
             
                 label: "leafy vegetables",
                 name: "leafy vegetables",
