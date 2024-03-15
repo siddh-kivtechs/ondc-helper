@@ -6,7 +6,7 @@ let y_json=[
               id:1,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/men_casual.jpeg",
               title:"mens casual",
-              url:"/apparels/mens_casual"
+              url:"/apparel/mens_casual"
             },
   
                    {
@@ -15,7 +15,7 @@ let y_json=[
               id:2,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/men_formal.jpeg",
               title:"Mens Formal",
-              url:"/apparels/mens_formal"
+              url:"/apparel/mens_formal"
             }
           ,
                     {
@@ -24,7 +24,7 @@ let y_json=[
               id:3,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/woman_casual.jpeg",
               title:"womens casual",
-              url:"/apparels/womens_casual"
+              url:"/apparel/womens_casual"
             },
   
                    {
@@ -32,8 +32,8 @@ let y_json=[
               icon:"fa fa-female",
               id:4,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/woman_formal.jpeg",
-              title:"woMens Formal",
-              url:"/apparels/women_formal"
+              title:"Womens Formal",
+              url:"/apparel/women_formal"
             },
                {
               desc:" Kids",
@@ -41,7 +41,7 @@ let y_json=[
               id:5,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/kids.jpeg",
               title:"kids",
-              url:"/apparels/kids_wear"
+              url:"/apparel/kids_wear"
             },
   
                    {
@@ -50,7 +50,7 @@ let y_json=[
               id:6,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/undergarments.jpeg",
               title:"Undergarments",
-              url:"/apparels/undergarments"
+              url:"/apparel/undergarments"
             },
 
                    {
@@ -59,7 +59,7 @@ let y_json=[
               id:7,
               image:"https://siddh-kivtechs.github.io/ondc-helper/assets/socks.jpeg",
               title:"socks",
-              url:"/apparels/socks"
+              url:"/apparel/socks"
             }
            ];
 

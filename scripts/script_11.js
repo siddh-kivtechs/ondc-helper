@@ -5,7 +5,7 @@ let n_json=[{
                 id: 1,
                 image:"https://siddh-kivtechs.github.io/ondc-helper/assets/fruits.jpeg",
                 title: "Fruits",
-                url: "/grocery/fruits"
+                url: "/fruits"
             },
             {
                 desc: " Vegetables",
@@ -13,7 +13,7 @@ let n_json=[{
                 id: 2,
                 image:"https://siddh-kivtechs.github.io/ondc-helper/assets/vegetables.jpeg",
                  title: "Vegetables",
-                url: "/grocery/vegetables"
+                url: "/vegetables"
             },
             {
                 desc: "Dairy  ",
@@ -21,7 +21,7 @@ let n_json=[{
                 id: 3,
                image:"https://siddh-kivtechs.github.io/ondc-helper/assets/dairy.jpeg",
                 title: "Dairy",
-                url: "/grocery/dairy"
+                url: "/dairy"
             },
                {
                 desc: " Bakery ",
@@ -29,7 +29,7 @@ let n_json=[{
                 id: 4,
                 image: "https://siddh-kivtechs.github.io/ondc-helper/assets/bakery.jpeg",
                 title: " Bakery",
-                url: "/grocery/bakery"
+                url: "/bakery"
             }
             ];
 

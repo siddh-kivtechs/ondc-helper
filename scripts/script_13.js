@@ -5,7 +5,7 @@ let j_json = [{
     id: 1,
     image: "https://siddh-kivtechs.github.io/ondc-helper/assets/186239.png",
     title: "smartphones",
-    url: "electronics/smartphones"
+    url: "/electronics/smartphones"
 }, {
     desc: "laptops",
     icon :"fa-solid fa-laptop",
